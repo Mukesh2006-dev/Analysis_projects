@@ -49,4 +49,4 @@ The dataset includes **5+ CSV tables** that were merged and cleaned for analysis
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Mukesh2006-dev/Analysis_projects/tree/main/Olist%20Analysis>
