@@ -234,4 +234,4 @@ By identifying **drop-off points and high-performing marketing channels**, busin
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <[https://github.com/Mukesh2006-dev/Analysis_projects/tree/main/Olist%20Analysis](https://github.com/Mukesh2006-dev/Analysis_projects/edit/main/Funnel%20analysis)>
+   git clone <(https://github.com/Mukesh2006-dev/Analysis_projects/tree/main/Funnel%20analysis)>
