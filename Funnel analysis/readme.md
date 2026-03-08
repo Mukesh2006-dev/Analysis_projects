@@ -230,3 +230,8 @@ ecommerce-funnel-analysis/
 This project demonstrates how **SQL and data visualization can be used to analyze user behavior and optimize conversion funnels in e-commerce platforms.**
 
 By identifying **drop-off points and high-performing marketing channels**, businesses can make data-driven decisions to **increase revenue and improve the customer experience.**
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone <[https://github.com/Mukesh2006-dev/Analysis_projects/tree/main/Olist%20Analysis](https://github.com/Mukesh2006-dev/Analysis_projects/edit/main/Funnel%20analysis)>
